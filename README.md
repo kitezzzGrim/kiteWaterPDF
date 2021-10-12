@@ -1,6 +1,6 @@
 # kiteWaterPDF
 
-kiteWaterPDF：[tongda-kite](https://github.com/kitezzzGrim/tongda-exp)
+kiteWaterPDF：[kiteWaterPDF](https://github.com/kitezzzGrim/kiteWaterPDF)
 
 
 `自动、批量、根据文件名生成水印，同时给PDF添加水印的脚本`
